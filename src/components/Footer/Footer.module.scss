@@ -1,21 +1,18 @@
-.footer{
-    margin-top: 50px;
-    text-align: center;
-    padding: 140px;
-    
+.footer {
+  margin-top: 50px;
+  text-align: center;
+  padding: 140px;
 }
 
-.span{
-    
-    margin-left: auto;
-    margin-right: auto;
+.span {
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.link{
-    text-decoration: none;
-    color: orange;
-     &:hover{
-       
-        color: #1976d2;
-    }
+.link {
+  text-decoration: none;
+  color: orange;
+  &:hover {
+    color: #1976d2;
+  }
 }
