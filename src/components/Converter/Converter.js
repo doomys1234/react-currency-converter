@@ -165,7 +165,7 @@ export default function Converter({ getValues, convertResult, secondResult }) {
     </Box>
       
        
-          <Button sx={{width: 150}} size="medium" variant='outlined' type="submit">Check</Button>
+          <Button sx={{width: 150}} size="medium" variant='contained' type="submit">Check</Button>
           
           
       </form>
